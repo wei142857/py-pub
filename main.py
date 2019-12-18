@@ -28,7 +28,7 @@ class GameAssist:
 		self.im2num_arr = []
 
 		# 主截图的左上角坐标和右下角坐标
-		self.scree_left_and_right_point = (577, 289, 1045, 601) # 手动更改
+		self.scree_left_and_right_point = (577, 289, 1045, 601) # 手动更改2
 		# 小图标宽高
 		self.im_width = 39
 
